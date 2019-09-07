@@ -1,4 +1,4 @@
-# last modified 2012-09-02 by J. Fox
+# last modified 2019-09-06 by J. Fox
 
 useDynLib(norm)
 useDynLib(norm, ctrsc, mkpsi,  swp, initn, stvaln, tobsn, emn, moden, lprin,lobsn,swpobs,

@@ -1,6 +1,6 @@
 Package: norm
 Version: 1.0-10.0
-Date: 2019-08-06
+Date: 2019-09-06
 Title: Analysis of Multivariate Normal Datasets with Missing Malues
 Author: Ported to R by Alvaro A. Novo <alvaro@novo-online.net>.
     Original by Joseph L. Schafer <jls@stat.psu.edu>. 
