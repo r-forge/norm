@@ -5,6 +5,8 @@ Title: Analysis of Multivariate Normal Datasets with Missing Malues
 Author: Ported to R by Alvaro A. Novo <alvaro@novo-online.net>.
     Original by Joseph L. Schafer <jls@stat.psu.edu>. 
 Maintainer: John Fox <jfox@mcmaster.ca>
-Description: Analysis of multivariate normal datasets with missing values.
+Description: An integrated set of functions for the analysis of 
+  multivariate normal datasets with missing values, including implementation of
+  the EM algorithm, data augmentation, and multiple imputation.
 License: GPL (>= 2)
 Imports: stats
